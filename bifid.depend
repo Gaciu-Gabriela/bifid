@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545140404 source:c:\users\gabriela\desktop\new folder (13)\bifid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
